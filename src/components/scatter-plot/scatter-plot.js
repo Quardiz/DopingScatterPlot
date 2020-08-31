@@ -81,6 +81,14 @@ export default class ScatterPlot extends Component {
                             </circle>;
                         }
                     )}
+                    {/* Legend */}
+                    <g transform="translate(800, 100)">
+                        <rect x="-170" y="-11" fill="lightgray" stroke="black" strokeWidth="1" width="200" height="70" rx="5" fillOpacity="0.9"></rect>
+                        <text x="-140" y="14">Doping allegations</text>
+                        <rect fill="lightblue" width="20" height="20"/>
+                        <text x="-165" y="44">No doping allegations</text>
+                        <rect fill="orange" y="30" width="20" height="20"/>
+                    </g>
                     <g transform={`translate(0, ${h})`}>
                         <BottomAxis
                             domain={xScale.domain()}
