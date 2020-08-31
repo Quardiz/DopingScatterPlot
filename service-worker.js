@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DopingScatterPlot/precache-manifest.b5676fc04bd930abaf778cad2540ea38.js"
+  "/DopingScatterPlot/precache-manifest.2d9824a1657b90320418a47736d28a72.js"
 );
 
 self.addEventListener('message', (event) => {

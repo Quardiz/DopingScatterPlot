@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26c2ebca651cc7732033af1260d9caff",
+    "revision": "974386488375f3eee14b55a4ad382a5a",
     "url": "/DopingScatterPlot/index.html"
   },
   {
-    "revision": "2c52727a8f1f158d98e2",
-    "url": "/DopingScatterPlot/static/css/main.7e622ad0.chunk.css"
+    "revision": "d82689db283047809354",
+    "url": "/DopingScatterPlot/static/css/main.c2574b09.chunk.css"
   },
   {
     "revision": "21134d00d735ee8ae09f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DopingScatterPlot/static/js/2.0426cd3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c52727a8f1f158d98e2",
-    "url": "/DopingScatterPlot/static/js/main.9e1ab9d5.chunk.js"
+    "revision": "d82689db283047809354",
+    "url": "/DopingScatterPlot/static/js/main.9d06ac67.chunk.js"
   },
   {
     "revision": "0ab5ea27bb7ae64444fa",
