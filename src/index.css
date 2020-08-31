@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#holder{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+#vertical-div {
+  display: flex;
+  height: 100%;
+  width: 1000px;
+  align-items: center;
+}
+
+#vertical-text {
+  transform: rotate(-90deg);
+  max-width: 30px;
+  white-space: nowrap;
+}
+
+#svg-holder{
+  width: 900px;
+  height: 100%;
+  position: relative;
+}

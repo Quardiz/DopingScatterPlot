@@ -1,0 +1,8 @@
+.Tooltip{
+    background-color: rgba(248, 248, 255, 0.95);
+    border-radius: 10px;
+}
+#doping {
+    text-align: left;
+    font-size: small;
+}

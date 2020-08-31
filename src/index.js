@@ -1,12 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import ScatterPlot from './components/scatter-plot/scatter-plot'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <div id="holder">
+      <h1>Doping in Professional Bicycle Racing</h1>
+      <div id="vertical-div">
+        <h2 id="vertical-text">Time in Minutes</h2>
+        <ScatterPlot />
+      </div>
+    </div>
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
