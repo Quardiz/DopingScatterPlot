@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DopingScatterPlot/static/css/main.7e622ad0.chunk.css",
+    "main.js": "/DopingScatterPlot/static/js/main.9e1ab9d5.chunk.js",
+    "main.js.map": "/DopingScatterPlot/static/js/main.9e1ab9d5.chunk.js.map",
+    "runtime-main.js": "/DopingScatterPlot/static/js/runtime-main.5eb78f80.js",
+    "runtime-main.js.map": "/DopingScatterPlot/static/js/runtime-main.5eb78f80.js.map",
+    "static/js/2.0426cd3d.chunk.js": "/DopingScatterPlot/static/js/2.0426cd3d.chunk.js",
+    "static/js/2.0426cd3d.chunk.js.map": "/DopingScatterPlot/static/js/2.0426cd3d.chunk.js.map",
+    "index.html": "/DopingScatterPlot/index.html",
+    "precache-manifest.b5676fc04bd930abaf778cad2540ea38.js": "/DopingScatterPlot/precache-manifest.b5676fc04bd930abaf778cad2540ea38.js",
+    "service-worker.js": "/DopingScatterPlot/service-worker.js",
+    "static/css/main.7e622ad0.chunk.css.map": "/DopingScatterPlot/static/css/main.7e622ad0.chunk.css.map",
+    "static/js/2.0426cd3d.chunk.js.LICENSE.txt": "/DopingScatterPlot/static/js/2.0426cd3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb78f80.js",
+    "static/js/2.0426cd3d.chunk.js",
+    "static/css/main.7e622ad0.chunk.css",
+    "static/js/main.9e1ab9d5.chunk.js"
+  ]
+}
